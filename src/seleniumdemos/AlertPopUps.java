@@ -1,5 +1,5 @@
 package seleniumdemos;
-//Alert popup programs
+//Alert popup programs.
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
